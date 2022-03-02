@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TripplR Tech](https://www.programming-hero.com/)**
+- 🔭 I’m currently working on **[TripplR Tech](https://triplertechbd.com/)**
 
 
 
